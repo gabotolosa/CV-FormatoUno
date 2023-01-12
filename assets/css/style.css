@@ -192,7 +192,7 @@ ul{
 }
 
 .section__skills .skill:nth-child(3) .skill__loader--int {
-    width: 75%; 
+    width: 70%; 
 }
 
 .section__skills .skill:nth-child(4) .skill__loader--int {
@@ -200,15 +200,15 @@ ul{
 }
 
 .section__skills .skill:nth-child(5) .skill__loader--int {
-    width: 75%; 
+    width: 70%; 
 }
 
 .section__skills .skill:nth-child(6) .skill__loader--int {
-    width: 60%; 
+    width: 70%; 
 }
 
 .section__skills .skill:nth-child(7) .skill__loader--int {
-    width: 60%; 
+    width: 65%; 
 }
 
 .section__skills .skill:nth-child(8) .skill__loader--int {
@@ -216,15 +216,15 @@ ul{
 }
 
 .section__skills .skill:nth-child(9) .skill__loader--int {
-    width: 60%; 
+    width: 70%; 
 }
 
 .section__skills .skill:nth-child(10) .skill__loader--int {
-    width: 60%; 
+    width: 65%; 
 }
 
 .section__skills .skill:nth-child(11) .skill__loader--int {
-    width: 60%; 
+    width: 70%; 
 }
 
 .section__skills .skill:nth-child(12) .skill__loader--int {
