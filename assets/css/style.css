@@ -74,7 +74,7 @@ ul{
 .page1, .page2{
 
     width: 100vw;
-    height: 100%;
+    height: 190vh;
 }
 
 .page1{
@@ -278,6 +278,8 @@ ul{
 .section__btns a:hover:nth-child(2){
     background-color: var(--color-contraste-oscuro);
 }
+
+
 
 /*======diseño pagina 2 celular======*/
 /*header pagina 2*/
@@ -492,6 +494,8 @@ ul{
 .rrss__icons a:nth-child(3) .bx {
     font-size: 1.3rem;
 }
+
+
 
 /*======PANTALLA TABLET 764PX A 1024PX=====*/
 @media screen and (main-width: 764px) {
@@ -792,8 +796,10 @@ ul{
 @media screen and (min-width: 1024px) {
     
     /*PAGINA UNO ESCRITORIO*/
-    .page1{
+    .page1, .page2{
         display: flex;  
+        width: 100vw;
+        height: 100%;
     }
 
     .banner{
@@ -1048,14 +1054,14 @@ ul{
     }
 
     .profile__title h2{
-        font-size: 26px;
+        font-size: 24px;
         text-transform: uppercase;
     }
 
     .profile__txt p{
-        font-size: 15px;
+        font-size: 12px;
         font-weight: var(--light);
-        line-height: 20px;
+        line-height: 22px;
     }
 
     /*studies y experiencia escritorio*/
@@ -1072,17 +1078,17 @@ ul{
     }
 
     .studies__titulo i{
-        font-size: 25px;
+        font-size: 24px;
         margin-right: 5px;
     }
 
     .studies__titulo h2{
-        font-size: 26px;
+        font-size: 24px;
         text-transform: uppercase;
     }
 
     .studies__info table{
-        font-size: 16px;
+        font-size: 14px;
     }
 
     .studies__info td{
